@@ -1,0 +1,2 @@
+# Ultimate-Tic-Tac-Toe-bot
+This project was done as the course project for the Artificial Intelligence course and was mentored by Prof. Praveen Paruchuri. Since computation for the best move for each possible state on a 4*4*4*4 Tic-Tac-Toe board is computationally infeasible, it uses minimax algorithm with alpha-beta pruning and a smart heuristic function to find the next optimal move at every step.  
